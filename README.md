@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/phpmyadmin-pmadb-central-sqli">phpmyadmin-pmadb-central-sqli</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/phpmyadmin-pmadb-central-sqli"><strong>https://abraxaslabs.tech/research/phpmyadmin-pmadb-central-sqli</strong></a>
+</p>
+
 
 # phpmyadmin-pmadb-central-sqli
 
